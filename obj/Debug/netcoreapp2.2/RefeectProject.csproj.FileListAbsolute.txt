@@ -1,0 +1,11 @@
+D:\code\RefeectProject\bin\Debug\netcoreapp2.2\RefeectProject.deps.json
+D:\code\RefeectProject\bin\Debug\netcoreapp2.2\RefeectProject.runtimeconfig.json
+D:\code\RefeectProject\bin\Debug\netcoreapp2.2\RefeectProject.runtimeconfig.dev.json
+D:\code\RefeectProject\bin\Debug\netcoreapp2.2\RefeectProject.dll
+D:\code\RefeectProject\bin\Debug\netcoreapp2.2\RefeectProject.pdb
+D:\code\RefeectProject\obj\Debug\netcoreapp2.2\RefeectProject.csprojAssemblyReference.cache
+D:\code\RefeectProject\obj\Debug\netcoreapp2.2\RefeectProject.csproj.CoreCompileInputs.cache
+D:\code\RefeectProject\obj\Debug\netcoreapp2.2\RefeectProject.AssemblyInfoInputs.cache
+D:\code\RefeectProject\obj\Debug\netcoreapp2.2\RefeectProject.AssemblyInfo.cs
+D:\code\RefeectProject\obj\Debug\netcoreapp2.2\RefeectProject.dll
+D:\code\RefeectProject\obj\Debug\netcoreapp2.2\RefeectProject.pdb
